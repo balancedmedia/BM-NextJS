@@ -90,7 +90,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Where's the download for our extension? <span>-&gt;</span>
+              Where&apos;s the download for our extension? <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
               The Balanced Media extension is still available to download. Click here to begin downloading.
